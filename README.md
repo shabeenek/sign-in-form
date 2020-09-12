@@ -1,2 +1,2 @@
 # sign-in-form
-https://github.com/shabeenek/sign-in-form.git
+https://shabeenek.github.io/sign-in-form/
