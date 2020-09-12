@@ -1,0 +1,107 @@
+.middle{
+    width: 40%;
+    height: 40em;
+    border: 2px ;
+  padding: 10px;
+  border-radius: 34px;
+  margin-top: 45px;
+  border: 1px ;
+  padding: 10px;
+  box-shadow: 0px 0px 10px #888888;
+  padding-left: 0px;
+  padding-right: 0px;
+
+}
+.buttons{
+  margin-top: 22px;
+}
+.login-controls{
+  border-spacing: 20px;
+  font-family: arial;
+  margin-top: 20px;
+  padding-top: 10px; 
+  font-weight: bold;
+ 
+}
+.login-label{
+  
+  color: #835e5e;
+  border-bottom-width: 10px 10px;
+  border-bottom-style: solid ; 
+  border-bottom-color: #eb845b ;
+    
+}
+.login{
+  color: #8d8686;
+  margin-top: 10p;
+  text-decoration: #1d1a1a;
+  
+}
+.image{
+  border-block: 10px;
+  width: 40vh;
+}
+.LOG-IN{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  background-color: #706b27;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px #0b171d;
+  border-radius: 34px;
+}
+.LOG{
+  width: 80%;
+  height: 50px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 0px solid rgb(122, 113, 113);
+  box-sizing: border-box;
+  color: #0c0101;
+  font-size: 17px;
+  text-align: center;
+  background: #c5b8b8;
+  border-radius: 24px;
+  
+}
+.Password{
+  width: 80%;
+  height: 50px;
+  padding: 12px 20px;
+  margin: 0px 0;
+  display: inline-block;
+  border: 0px solid #ccc;
+  box-sizing: border-box;
+  color: #0e0202;
+  font-size: 17px;
+  text-align: center;
+  background: #dbbdbd;
+  border-radius: 24px;
+}
+.footer{
+  font-size: 17px;
+  color: #5bbbeb;
+  width: 100%;
+  height: 93px;
+  background-color: #411616;
+  padding: 5.5px 20px;
+  display: inline-block;
+  border: 0.5px solid #d4d4d4;
+  box-sizing: border-box;
+  padding-top: 15px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-top: 38px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+ ;
+}
